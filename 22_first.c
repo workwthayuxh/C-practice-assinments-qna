@@ -6,7 +6,12 @@ void main(){
 
     a=pow(2,2024);
     printf("%f",a);
-    getch();
-}
 
-ayush kumar 
+
+
+printf("Ayush Kumar");
+
+    getch();
+
+
+}
