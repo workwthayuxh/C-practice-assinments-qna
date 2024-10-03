@@ -8,6 +8,7 @@ void main(){
     printf("%f",a);
 
     getch();
-
+    
+    printf("ayush");
 
 }
