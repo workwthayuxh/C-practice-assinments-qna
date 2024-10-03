@@ -27,7 +27,6 @@ void main(){
 
 // Another way to do this without ESLE IF function ->
 
-
 #include<stdio.h>
 #include<conio.h>
 void main(){
