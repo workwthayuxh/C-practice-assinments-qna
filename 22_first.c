@@ -8,9 +8,6 @@ void main(){
     printf("%f",a);
 
 
-
-printf("Ayush Kumar");
-
     getch();
 
 
