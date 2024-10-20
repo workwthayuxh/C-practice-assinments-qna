@@ -4,6 +4,6 @@
 #include<conio.h>
 #include<math.h>
 void main(){
-
+    ayushn
     getch();
 }
